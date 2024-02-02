@@ -32,12 +32,16 @@ pip install -r requirements.txt
    ```
    python main.py
    ```
+
+## Execution
+
+![Cartpole Recording](resources/cartpole-recording.gif)
 ## Performance Report
 
 The training process and performance of the Deep Q-Learning (DQL) agent are tracked through the rewards accumulated per episode. The graph depicted below illustrates the agent's progression throughout the training episodes.
 
-![Rewards per Episode](rewards1.png)
-![Rewards per Episode](rewards2.png)
+![Rewards per Episode](resources/rewards1.png)
+![Rewards per Episode](resources/rewards2.png)
 
 ### Observations
 
